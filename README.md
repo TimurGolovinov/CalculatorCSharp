@@ -1,5 +1,5 @@
 # CalculatorCSharp
-Simple Calcularot made with Windows Forms, it contains 3 custom made lubraries for Arithmetic, Trigonometry and Algebra functions
+Simple Calculator made with Windows Forms, it contains 3 custom made lubraries for Arithmetic, Trigonometry and Algebra functions
 
 
 1.	Data Structures
