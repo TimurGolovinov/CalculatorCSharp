@@ -1,0 +1,5 @@
+L:\STUDY\Programming\TUESDAY\ProgrammingIII\Sessions\S7\BasicMath\BasicMath\bin\Debug\BasicMath.dll
+L:\STUDY\Programming\TUESDAY\ProgrammingIII\Sessions\S7\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+L:\STUDY\Programming\TUESDAY\ProgrammingIII\Sessions\S7\BasicMath\BasicMath\obj\Debug\BasicMath.csprojResolveAssemblyReference.cache
+L:\STUDY\Programming\TUESDAY\ProgrammingIII\Sessions\S7\BasicMath\BasicMath\obj\Debug\BasicMath.dll
+L:\STUDY\Programming\TUESDAY\ProgrammingIII\Sessions\S7\BasicMath\BasicMath\obj\Debug\BasicMath.pdb

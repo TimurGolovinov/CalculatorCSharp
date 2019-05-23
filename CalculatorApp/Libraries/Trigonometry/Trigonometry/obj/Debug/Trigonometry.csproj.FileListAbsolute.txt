@@ -1,0 +1,6 @@
+D:\STUDY\Programming\TUESDAY\ProgrammingIII\Assessment\1.6_M228724\CalculatorApp\Libraries\Trigonometry\Trigonometry\bin\Debug\Trigonometry.dll
+D:\STUDY\Programming\TUESDAY\ProgrammingIII\Assessment\1.6_M228724\CalculatorApp\Libraries\Trigonometry\Trigonometry\bin\Debug\Trigonometry.pdb
+D:\STUDY\Programming\TUESDAY\ProgrammingIII\Assessment\1.6_M228724\CalculatorApp\Libraries\Trigonometry\Trigonometry\obj\Debug\Trigonometry.csprojAssemblyReference.cache
+D:\STUDY\Programming\TUESDAY\ProgrammingIII\Assessment\1.6_M228724\CalculatorApp\Libraries\Trigonometry\Trigonometry\obj\Debug\Trigonometry.csproj.CoreCompileInputs.cache
+D:\STUDY\Programming\TUESDAY\ProgrammingIII\Assessment\1.6_M228724\CalculatorApp\Libraries\Trigonometry\Trigonometry\obj\Debug\Trigonometry.dll
+D:\STUDY\Programming\TUESDAY\ProgrammingIII\Assessment\1.6_M228724\CalculatorApp\Libraries\Trigonometry\Trigonometry\obj\Debug\Trigonometry.pdb

@@ -1,0 +1,5 @@
+D:\STUDY\Programming\TUESDAY\ProgrammingIII\Assessment\1.6_M228724\CalculatorApp\Libraries\Algebra\Algebra\bin\Debug\Algebra.dll
+D:\STUDY\Programming\TUESDAY\ProgrammingIII\Assessment\1.6_M228724\CalculatorApp\Libraries\Algebra\Algebra\bin\Debug\Algebra.pdb
+D:\STUDY\Programming\TUESDAY\ProgrammingIII\Assessment\1.6_M228724\CalculatorApp\Libraries\Algebra\Algebra\obj\Debug\Algebra.csproj.CoreCompileInputs.cache
+D:\STUDY\Programming\TUESDAY\ProgrammingIII\Assessment\1.6_M228724\CalculatorApp\Libraries\Algebra\Algebra\obj\Debug\Algebra.dll
+D:\STUDY\Programming\TUESDAY\ProgrammingIII\Assessment\1.6_M228724\CalculatorApp\Libraries\Algebra\Algebra\obj\Debug\Algebra.pdb
